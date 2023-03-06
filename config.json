@@ -1,0 +1,31 @@
+{
+
+  "client": {
+
+    "TOKEN": "bot_token_here",
+
+    "PREFIX": ["!"],
+
+    "IMPORTANT": "use the line below for multi-prefixes",
+
+    "PREFIX2": ["!", "?"]
+
+  },
+
+  "status": {
+
+    "text": "status_text",
+
+    "type": "status_type",
+
+    "status": "status"
+
+  },
+
+  "express": {
+
+    "port": "port_for_your_server"
+
+  }
+
+} 
