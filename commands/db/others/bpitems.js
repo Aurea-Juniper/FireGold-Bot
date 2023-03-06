@@ -5,7 +5,5 @@ module.exports ={
 $botTyping
 $title[Battle Tower Items]
 $description[under construction]
-$addReactions[🚧;⚠️]
-$addCmdReactions[🚧;⚠️]
 `
-} 
+}
